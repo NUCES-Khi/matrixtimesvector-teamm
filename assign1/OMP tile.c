@@ -1,6 +1,5 @@
 /*
  *Programmer(s):Nabeeha Maqsood, Arwa and Alisbha
- *Date: 17th March 2024
  *Desc: OpenMP version of matrix-vector multiplication using Tiling.
 */
 #include <stdio.h>
