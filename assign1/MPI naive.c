@@ -1,3 +1,13 @@
+/*
+ *Programmer(s): Nabeeha MAqsood, Arwa  and Alishba 
+ *Date: 17th March 2024
+ *Desc: MPI version of matrix vector multiplication Naive.
+*/
+
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
