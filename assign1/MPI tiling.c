@@ -1,6 +1,5 @@
 /*
  *Programmer(s):Nabeeha Maqsood, Arwa and Alisbha
- *Date: 13th March 2024
  *Desc: MPI version of matrix vector multiplication using Tiling.
 */
 
